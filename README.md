@@ -14,12 +14,6 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 body {
 background-color: lightblue;
-}
-
-h1 {
-color: navy;
-margin-left: 20px;
-}
 <!DOCTYPE html>
 <html>
 <head>
@@ -33,3 +27,4 @@ margin-left: 20px;
 
 </body>
 </html>
+git add --all
